@@ -35,7 +35,7 @@ namespace Sphinx.Client.Commands
 
         #region Properties
         /// <summary>
-        /// True if command execution was successfull
+        /// True if command execution was successful
         /// </summary>
         public virtual bool Success
         {
