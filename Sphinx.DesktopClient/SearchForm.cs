@@ -285,7 +285,7 @@ namespace SearchDesktopClient
                 }
                 catch (SphinxException ex)
                 {
-                    output = "<h2 style='color: red;'>Error is occured:<h2>" + ex.Message;
+                    output = "<h2 style='color: red;'>Error is occurred:<h2>" + ex.Message;
                     return output;
                 }
                 if (search.Result.Status == CommandStatus.Warning)
