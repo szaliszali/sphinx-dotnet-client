@@ -70,7 +70,7 @@ namespace Sphinx.Client.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DateTime value can&apos;t be before Unix Epoch (1 Jan 1970 00:00:00 UTC) and after Unix Millenium (19 January 2038 03:14:07 UTC) .
+        ///   Looks up a localized string similar to DateTime value can&apos;t be before Unix Epoch (1 Jan 1970 00:00:00 UTC) and after Unix Millennium (19 January 2038 03:14:07 UTC) .
         /// </summary>
         internal static string Exception_ArgumentDateTimeOutOfRangeUnixTimestamp {
             get {
